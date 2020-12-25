@@ -1,0 +1,12 @@
+C:\Users\Denis\Desktop\Новая папка C#\DoctorLibrary\DoctorLibrary\bin\Debug\netcoreapp3.1\DoctorLibrary.deps.json
+C:\Users\Denis\Desktop\Новая папка C#\DoctorLibrary\DoctorLibrary\bin\Debug\netcoreapp3.1\DoctorLibrary.runtimeconfig.json
+C:\Users\Denis\Desktop\Новая папка C#\DoctorLibrary\DoctorLibrary\bin\Debug\netcoreapp3.1\DoctorLibrary.runtimeconfig.dev.json
+C:\Users\Denis\Desktop\Новая папка C#\DoctorLibrary\DoctorLibrary\bin\Debug\netcoreapp3.1\DoctorLibrary.dll
+C:\Users\Denis\Desktop\Новая папка C#\DoctorLibrary\DoctorLibrary\bin\Debug\netcoreapp3.1\DoctorLibrary.pdb
+C:\Users\Denis\Desktop\Новая папка C#\DoctorLibrary\DoctorLibrary\obj\Debug\netcoreapp3.1\DoctorLibrary.csprojAssemblyReference.cache
+C:\Users\Denis\Desktop\Новая папка C#\DoctorLibrary\DoctorLibrary\obj\Debug\netcoreapp3.1\DoctorLibrary.AssemblyInfoInputs.cache
+C:\Users\Denis\Desktop\Новая папка C#\DoctorLibrary\DoctorLibrary\obj\Debug\netcoreapp3.1\DoctorLibrary.AssemblyInfo.cs
+C:\Users\Denis\Desktop\Новая папка C#\DoctorLibrary\DoctorLibrary\obj\Debug\netcoreapp3.1\DoctorLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\Новая папка C#\DoctorLibrary\DoctorLibrary\obj\Debug\netcoreapp3.1\DoctorLibrary.dll
+C:\Users\Denis\Desktop\Новая папка C#\DoctorLibrary\DoctorLibrary\obj\Debug\netcoreapp3.1\DoctorLibrary.pdb
+C:\Users\Denis\Desktop\Новая папка C#\DoctorLibrary\DoctorLibrary\obj\Debug\netcoreapp3.1\DoctorLibrary.genruntimeconfig.cache

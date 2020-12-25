@@ -1,0 +1,12 @@
+C:\Users\Denis\Desktop\Новая папка C#\DoctorLibrary\DoctorLibrary\bin\Debug\netcoreapp3.1\DoctorLibrary.DAL.deps.json
+C:\Users\Denis\Desktop\Новая папка C#\DoctorLibrary\DoctorLibrary\bin\Debug\netcoreapp3.1\DoctorLibrary.DAL.runtimeconfig.json
+C:\Users\Denis\Desktop\Новая папка C#\DoctorLibrary\DoctorLibrary\bin\Debug\netcoreapp3.1\DoctorLibrary.DAL.runtimeconfig.dev.json
+C:\Users\Denis\Desktop\Новая папка C#\DoctorLibrary\DoctorLibrary\bin\Debug\netcoreapp3.1\DoctorLibrary.DAL.dll
+C:\Users\Denis\Desktop\Новая папка C#\DoctorLibrary\DoctorLibrary\bin\Debug\netcoreapp3.1\DoctorLibrary.DAL.pdb
+C:\Users\Denis\Desktop\Новая папка C#\DoctorLibrary\DoctorLibrary\obj\Debug\netcoreapp3.1\DoctorLibrary.DAL.csprojAssemblyReference.cache
+C:\Users\Denis\Desktop\Новая папка C#\DoctorLibrary\DoctorLibrary\obj\Debug\netcoreapp3.1\DoctorLibrary.DAL.AssemblyInfoInputs.cache
+C:\Users\Denis\Desktop\Новая папка C#\DoctorLibrary\DoctorLibrary\obj\Debug\netcoreapp3.1\DoctorLibrary.DAL.AssemblyInfo.cs
+C:\Users\Denis\Desktop\Новая папка C#\DoctorLibrary\DoctorLibrary\obj\Debug\netcoreapp3.1\DoctorLibrary.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\Новая папка C#\DoctorLibrary\DoctorLibrary\obj\Debug\netcoreapp3.1\DoctorLibrary.DAL.dll
+C:\Users\Denis\Desktop\Новая папка C#\DoctorLibrary\DoctorLibrary\obj\Debug\netcoreapp3.1\DoctorLibrary.DAL.pdb
+C:\Users\Denis\Desktop\Новая папка C#\DoctorLibrary\DoctorLibrary\obj\Debug\netcoreapp3.1\DoctorLibrary.DAL.genruntimeconfig.cache
